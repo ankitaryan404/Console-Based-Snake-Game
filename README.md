@@ -33,7 +33,7 @@ This project is a basic console-based Snake game written in C++. The game is des
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/ankitaryan404/Console-Based-Snake-Game.git
     cd snake-game
     ```
 
