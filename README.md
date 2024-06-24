@@ -9,9 +9,6 @@ This is a simple implementation of the classic Snake game in C++.
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [Code Explanation](#code-explanation)
-- [Optimizations](#optimizations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
